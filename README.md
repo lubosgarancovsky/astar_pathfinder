@@ -1,6 +1,6 @@
 # A* Pathfinder
 
-## Javascript A* pathfinding alghorithm visualiser
+## Javascript A* pathfinding algorithm visualiser
 
 ![JavaScript Logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite Logo](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
