@@ -11,7 +11,9 @@ The tool provides a graphical representation of the grid, with obstacles represe
 
 To run the visualiser, you will need to have Node.js installed on your machine. Once you have Node.js installed, you can use the following commands to run the visualiser:
 
-bash
+# Clone the repository
+git clone <repository-url>
+cd <repository-folder>
 
 # Install dependencies
 npm install
