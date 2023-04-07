@@ -22,5 +22,3 @@ npm install
 npm run dev
 
 This will start a development server at http://localhost:3000 where you can view the visualisation in your browser.
-
-Feel free to use this code for your own projects or to contribute to the repository. If you find any bugs or have any suggestions, please open an issue or a pull request.
